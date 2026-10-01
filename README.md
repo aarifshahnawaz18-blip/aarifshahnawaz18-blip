@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # Hi 👋, I'm Arif Shahnawaz
@@ -86,13 +84,6 @@ Java Backend Developer | Python | MERN Stack Developer
 - Java Full Stack
 - Python — Udemy
 - AMCAT Assessment — SHL
-
-## 📫 Connect With Me
-
-- LinkedIn: Add your LinkedIn profile URL
-- GitHub: https://github.com/YOUR-USERNAME
-
----
 
 <div align="center">
 

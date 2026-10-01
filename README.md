@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi 👋, I'm Arif Shahnawaz
@@ -29,6 +28,3 @@ Java Backend Developer | Python | MERN Stack
 
 ### 📜 Certifications
 Java Full Stack | Python — Udemy | AMCAT — SHL
-
-### 📫 Connect With Me
-[LinkedIn](YOUR-LINKEDIN-URL) · [GitHub](https://github.com/YOUR-USERNAME)
